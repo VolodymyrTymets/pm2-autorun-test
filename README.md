@@ -2,6 +2,7 @@
 
 ## How to start 
 - http://pm2.keymetrics.io/docs/usage/startup/
+- http://pm2.keymetrics.io/docs/usage/quick-start/
 
 ### To start
 
