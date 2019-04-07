@@ -1,0 +1,23 @@
+{
+  "name": "pm2-autorun-test",
+  "version": "1.0.0",
+  "description": "## How to start  - http://pm2.keymetrics.io/docs/usage/startup/ - http://pm2.keymetrics.io/docs/usage/quick-start/",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolodymyrTymets/pm2-autorun-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolodymyrTymets/pm2-autorun-test/issues"
+  },
+  "homepage": "https://github.com/VolodymyrTymets/pm2-autorun-test#readme"
+}
